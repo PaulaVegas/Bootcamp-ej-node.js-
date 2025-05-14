@@ -1,0 +1,16 @@
+# Ignorar dependencias de Node.js
+**/node_modules/
+
+# Ignorar archivos de bloqueo de dependencias
+**/package-lock.json
+
+# Ignorar logs
+*.log
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
